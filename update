@@ -1,0 +1,51 @@
+#!/usr/bin/env nix-shell
+#! nix-shell -p curl jq -i sh
+set -e
+
+tmp_dir=$PWD/output
+rm -rf "$tmp_dir" 2>/dev/null
+mkdir -p ./output
+
+curl -s https://releases.hashicorp.com/terraform/index.json >"$tmp_dir"/index.json
+
+# fetch shasums
+cat "$tmp_dir"/index.json | jq -r '
+.versions | to_entries[] | .value
+| .builds[0].url as $url
+| .builds[0].filename as $filename
+| .shasums as $shasums
+| $url
+| sub($filename; $shasums)
+' >"$tmp_dir"/sources.shasums.list
+
+mkdir -p "$tmp_dir"/shasums/
+pushd . >/dev/null
+cd "$tmp_dir"/shasums
+while read -r line; do
+	curl -s -O "$line"
+done <"$tmp_dir"/sources.shasums.list
+popd >/dev/null
+
+cat "$tmp_dir"/shasums/* | jq -cR 'split("  ") | {(.[1]): (.[0])}' | jq -s 'reduce .[] as $item ({}; . * $item)' >"$tmp_dir"/sources.shasums.json
+
+# Build our new sources.json
+cat "$tmp_dir"/sources.shasums.json "$tmp_dir"/index.json | jq -s '
+def rename_arch(x): x | gsub("amd64"; "x86_64") | gsub("arm64"; "aarch64");
+[
+.[0] as $shasums
+| .[1] as $releases
+| $releases.versions | to_entries[] as $version |
+	$version | {
+		(.key): .value | .builds[] | {
+  			"\(rename_arch(.arch))-\(.os)": {
+  				"url": .url,
+  				"version": .version,
+  				"sha256": $shasums[.filename]
+			}
+		}
+	}
+]
+| reduce .[] as $item ({}; . * $item)
+' >sources.json
+
+# vim:set ft=sh:
