@@ -39,7 +39,11 @@
   latest = lib.lists.last (
     builtins.sort
     (x: y: (builtins.compareVersions x y) < 0)
-    (builtins.attrNames taggedPackages)
+    (
+      builtins.map (v: builtins.head (builtins.split "-" v)) (
+        builtins.attrNames taggedPackages
+      )
+    )
   );
 in
   # We want the packages but also add a "default" that just points to the
