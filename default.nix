@@ -20,9 +20,11 @@
       dontBuild = true;
       dontFixup = true;
       installPhase = ''
-        mkdir -p $out/bin}
-        cp terraforrm $out/bin/terraform
+        mkdir -p $out/bin
+        cp terraform $out/bin/terraform
       '';
+      setSourceRoot = "sourceRoot=`pwd`";
+      nativeBuildInputs = [pkgs.unzip];
     };
 
   # The packages that are tagged releases
