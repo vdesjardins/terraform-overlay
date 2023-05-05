@@ -17149,5 +17149,77 @@
       "version": "1.5.0-alpha20230405",
       "sha256": "edc4993a9fce5272bac99997a1e7427d3f5d728ddbbab1e87434a6b57c6d0c69"
     }
+  },
+  "1.5.0-alpha20230504": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_darwin_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "32c5f4b9ff4258160fb94bcc5f04c9f187ebf1f56cf1ca6efc5e11c0aca500b6"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_darwin_arm64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "d8940671bdf5dc2124eff2dbaa1a82e0e3847a38c7501e52d6b9c6f908002efd"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_freebsd_386.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "8d4801410450f7abe853fa0f273be949b6dc0b6cd1875f5e68706b46eff0702c"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_freebsd_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "6a70f99167ea66461149e0edcda935ac52585f662926a395f300002aa4332b4e"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_freebsd_arm.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "a965b2dd43b71d1c3d3442e5f966440cbdd142ee7e1fa33ba2fc72ebd645f146"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_linux_386.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "af2f20c1a32cc86fd603c00315710a330226687b7054549fb6c29321581d66fb"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_linux_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "133c72875597fd9e779b306206f647b31975c3c1febd9e5413aa001b03e2682c"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_linux_arm.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "50d1d16ccfd170a5835621d714cebdbe9550b12decea400280af60a690ce01ef"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_linux_arm64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "b041b2b1eeb3f0e25fef48cfc89a1d4ba2d4a5d940c0412d5670f62fa63b9878"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_openbsd_386.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "633343bb7e62ad3db02a66ce15a4e852df34bd6d52659650108b4ce2f31a4250"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_openbsd_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "85c92d8dee575337ad1c0e7e3cf4c560de843516e5fc5ffb34d8e29a6e41755c"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_solaris_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "32247984e9fbf0b8488e18861327a1eeb66be3b85a8e9baf62da4a1a5d7048cc"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_windows_386.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "9a580890cee62679fb1a6fc78719ad496b2143271e66fe2eec04d721f54f86b2"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.5.0-alpha20230504/terraform_1.5.0-alpha20230504_windows_amd64.zip",
+      "version": "1.5.0-alpha20230504",
+      "sha256": "1f9016ee734098f1386ea9db8d1e6373c4fe5edb0259021576c5138df35f45b0"
+    }
   }
 }
