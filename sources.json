@@ -18949,5 +18949,77 @@
       "version": "1.6.2",
       "sha256": "3987aacb78c1b05d94e52ae2c9ebd1536e7f012590d2d0874525b6dc4448062e"
     }
+  },
+  "1.7.0-alpha20231025": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_darwin_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "53d8dd65dd17f5f6294e4f6defc70c336cd2363e2ddf8edde16a626dbdc7cf23"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_darwin_arm64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "b6be241258c93a2dfd28a09535c6a5da79b6df1d26a7a2d0738239f128e724a5"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_freebsd_386.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "238fa3bd263494c8875545b9ee0d47d8e64bc844da9d1535dcacaef1c57bbdfd"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_freebsd_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "60064c8e6c5fed11350755df04f86ceab24479d9fbcffd355a256eb14113229f"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_freebsd_arm.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "300307aac8d99f09540605ddde5cb87530c54ab0cb716b1ad04c5a2cd104b366"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_linux_386.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "b9dc2b62adaf622eb1552c80a91395bb237439bf2fd10397814fd1465822a072"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_linux_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "1005a5ce11a9813db57b3797f0e7f3c76f836ff6451f99a091139093715de4a2"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_linux_arm.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "71f8e72dd5873fdcc4243fe42d57ec9f85c5c84ff4a244e4857b692e0dd5a0fe"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_linux_arm64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "57fad4d29f192da8d390f72bacad2ccec48ada3350d3e017f5f5924c80c06d60"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_openbsd_386.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "86c97869af65dff937249a66278319a90832715b4ff0d5c445debe1a77cdbbc9"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_openbsd_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "a732f1724df0b9332c17d2a9b7d7469044b1c5eb34164c2b59781e97baea4bf4"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_solaris_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "02d8ed5535d902ed351f4b401b9fe88d42b0cf2577f286ff61d07acd83cc58ff"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_windows_386.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "0ae5a2737d5f3da13a33a7ba25ce39763af98864dd90801eb6e647db8982d032"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231025/terraform_1.7.0-alpha20231025_windows_amd64.zip",
+      "version": "1.7.0-alpha20231025",
+      "sha256": "386d07245922ddba19ac8e268c7ce3ffe107f85d29196a52f49a42c42012607b"
+    }
   }
 }
