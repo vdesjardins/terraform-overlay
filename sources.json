@@ -19093,5 +19093,77 @@
       "version": "1.7.0-alpha20231025",
       "sha256": "386d07245922ddba19ac8e268c7ce3ffe107f85d29196a52f49a42c42012607b"
     }
+  },
+  "1.7.0-alpha20231108": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_darwin_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "68a916fa04ca6a43cfcb803edd5703d2349b74481f27bd7777d6885a6abb721f"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_darwin_arm64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "772415b52f31d9af114aa50a5a9c3ff0261f74048cc581562c3fa1e931da405f"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_freebsd_386.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "337f3f71b82d497627c3e189adadc2ccfa406fa38ca679df558ab941464aa355"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_freebsd_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "7020f1732cfd9063fa07f1697eaf92e1e44eb58d7daae20d52aba4d9554513af"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_freebsd_arm.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "441d89d8550bbd60841253822754a5f5288332b115275ee8e8d17b3215e0d099"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_linux_386.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "e1bd17d7bad63182e9ed107e7c3e0ccd9f02eb17641d3bc4dd5af8f07f3a9c7a"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_linux_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "03484e0bd42b8dca68cec2b0b8e7463df11b96aa112a30d0f3d912ed1a231d9f"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_linux_arm.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "e19e6f702dbc13b83d405756ad696157941958aed33341f28c0325286f152601"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_linux_arm64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "97d2a65bcd0da8e068ee16fa0e043c12c1ec66c9eed7b56cb4b77bb005d1b9e6"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_openbsd_386.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "9945df26452c34949f9626049fa0fe54a07b09122f32f473ca40226807363a59"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_openbsd_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "7a9605365d29067b033e910e36a70fd4effd74236275da6f17f0c9598bb17041"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_solaris_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "a36f59be5d44fdba10f8eea1917cc07c49b8fc51d79db151eeb044f7b96f16e8"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_windows_386.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "80f4751b82344079d1acee536593a289e23cde8d61051d41d801b48c86e29ee2"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.7.0-alpha20231108/terraform_1.7.0-alpha20231108_windows_amd64.zip",
+      "version": "1.7.0-alpha20231108",
+      "sha256": "0392ef4bed257d24414dededc5df3540b5a1c113c2c2c46b10e03c8b70d1419d"
+    }
   }
 }
