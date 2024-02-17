@@ -20173,5 +20173,77 @@
       "version": "1.8.0-alpha20240214",
       "sha256": "a1281265543e2cbc489af72753a33ae9fdff3857c263a581fb5d035ec9aef2e7"
     }
+  },
+  "1.8.0-alpha20240216": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_darwin_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "caf152a2291ab4a77859c563f4fc1da2924ab2af65c0c9c37f24ef5eccbfe883"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_darwin_arm64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "928fc218cab93d8e937ccc6380c8382b1e8d0f851b10d9502cf25eb087a13d3c"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_386.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "e2b99120435015d888bbbf7e2ac3ff4c27707dd0056c044f354c7782f7206e70"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "5a25edd3d33d13babbc1fa7f43be0277a9f041eeff6d988881d1c8aa79cb36b8"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_freebsd_arm.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "6e4e4404ea50a9337f02f9f86638d10d6f1daa60a7d900cb09d5ebdd9ac24e64"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_386.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "7b7ff4cd28826979533c0974901c64904fde500c165e811b4dda36f2b10d0052"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "dd5626b05726de1ece2815450eda8ca23ca290034e9a05c887615df87c5328f2"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_arm.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "378d11bbd38c31e85bc4f0fd05abd9d2d716fa4e8f4cf17fb5d025615227934d"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_linux_arm64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "a3a399d0c79ae9036aedb0ad011a756b3e461be6267ed521795e68ccfbdd2247"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_openbsd_386.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "38ed1c365929c9940f96afedd871e523e3a8a7a5c050f5fb092b2b746861fa60"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_openbsd_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "1849584a81a4d000d8282c714d2cd1f7cd78ae7a396948453bc92acc88c8b13f"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_solaris_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "a811008b898990e1ffb4dd61aaebc31102f16853f75a660edc4795d8cac87a03"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_windows_386.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "dca42e5b5d14425e5a50e6df4afd56341fc805fb40627f707dc93d457c4461e9"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240216/terraform_1.8.0-alpha20240216_windows_amd64.zip",
+      "version": "1.8.0-alpha20240216",
+      "sha256": "8f4211f3a1ab319d0786d6f557d68e7a439fc8355f774f83f91fae4fa86d6ad1"
+    }
   }
 }
