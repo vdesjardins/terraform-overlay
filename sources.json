@@ -20317,5 +20317,77 @@
       "version": "1.8.0-alpha20240216",
       "sha256": "8f4211f3a1ab319d0786d6f557d68e7a439fc8355f774f83f91fae4fa86d6ad1"
     }
+  },
+  "1.8.0-alpha20240228": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_darwin_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "1c6b38f3e77a79bd285e7f7c7e800f91b58b5e40b6d736422ecd021ed281799c"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_darwin_arm64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "6251ae32bb0a8a98464e2eb2b43e880b59151ca8db438bef5e10a4785c211074"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_freebsd_386.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "313d293aa1f16ac989d1d893efb66ed9d5327b8dd666af2086928a441577680d"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_freebsd_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "41b60dacc7754ec1afae2e6784b149b5406dc63b0a99fae58f6d4fd5d72253b0"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_freebsd_arm.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "e9030540611fe753ec355138866a31ad05ccaef7d4a8919beef508f4c3c4a990"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_linux_386.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "97e725fd4c3a7d022708bb666dcafdef2ec87882a37a637410adcf4d4b609e29"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_linux_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "2bc4a2bf9671fb277731caba96b56e175ce5286ac66607a0dc696b52d763914a"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_linux_arm.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "d2a7e4eed023422ec52d6bd0f15c941ceddf447be5634c3b126389f5e5b9a796"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_linux_arm64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "89586b302eb039004ecc5029a6bc66e727ac4c794d40f754926d3ddce0b4b05a"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_openbsd_386.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "f258724ec32081671bcd4effc6ad2b8b5002ba93bea45aab90a89e250ca50fd3"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_openbsd_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "0e60c9daff77aeecd469bb15817351ce1833f4ec3442ab76158b379fccc0ab3d"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_solaris_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "decb12541c8acd81b31a88dc7f1c184baeec574a9e069a9a0f842530873f8390"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_windows_386.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "5d2934e86eb5a841a7b41a2a8f1c659cd6fc68884000e48721209227ec506c03"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.8.0-alpha20240228/terraform_1.8.0-alpha20240228_windows_amd64.zip",
+      "version": "1.8.0-alpha20240228",
+      "sha256": "cee0697ae386d16e013d9d3c94ee580efb041ecfc953554b27d89cc974fc14da"
+    }
   }
 }
