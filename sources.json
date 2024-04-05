@@ -20677,5 +20677,77 @@
       "version": "1.8.0-rc2",
       "sha256": "996e2d387bd6f71a19f8a96b30463a6957b83f7d726b71dbd88888341df51a43"
     }
+  },
+  "1.9.0-alpha20240404": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_darwin_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "484dc7f038e89aeeee8bfc6a1079ef9f0de0386219ed8d2d4cbca24475767438"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_darwin_arm64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "de984feb85d82c1111a88af2f58cc4cc2ae2077d25a660bf4cf77cce93ed07ad"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_freebsd_386.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "b71eda7425b6797631e730ff288cb891448a2f914c5fdcf589c1431f559a3876"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_freebsd_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "31478d3d22423f6627a497ed312a75d4fbe73a7aba69520cc89f277229390ad0"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_freebsd_arm.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "0b6770b890f486aedda5bc45b8c97d2cbd9cb3eff403b22b4774eac5a8baf2c3"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_linux_386.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "6183974585198c12e14f4d1635a571b8395b0fc0c1b32ae138e2cefaa4ec1d40"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_linux_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "d4ac0589a28e907206b032515bbb67bd5e86dba21614510c0d6c25883ac8fd4f"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_linux_arm.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "780cdb2cbe1efaa8e3cb9fbaacf231beb90afaabc30ba4ea4f65c4446a3c1d0a"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_linux_arm64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "adb9d44bc6539a23ec989c8323615d271dd52ab49f373564719d211650221ebb"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_openbsd_386.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "e1f40fd840eb33d412021d699f676db94dd0e2be9598fb114b8510d732678fb1"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_openbsd_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "1d4cb6990eecfb9eb73ad4795355e31a6c4ab14ca2500ea079da9e23ef6b0d55"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_solaris_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "6148583be205a9b06d064fb5b36d9a7e6c39f4fceef6fefe6f3d3242b5227087"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_windows_386.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "444ed1eaa090d3a04400f97d6d10db9315957d0d61e32c59b374a0f0e6c56010"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.9.0-alpha20240404/terraform_1.9.0-alpha20240404_windows_amd64.zip",
+      "version": "1.9.0-alpha20240404",
+      "sha256": "b0556dcc333e15f92acf38ec781aa5760d223ec3c0ccb1de91df94b1351a26f1"
+    }
   }
 }
