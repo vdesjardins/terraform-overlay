@@ -16862,6 +16862,78 @@
       "sha256": "b728811660c0cb28585d92a871e6f7790243706f5a82240cd4569ae7c3a64bae"
     }
   },
+  "1.12.0-beta3": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_darwin_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "f484a640fc20561e0072309d0b461c17e07c9042e0bf361fa1cd13c9978d697c"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_darwin_arm64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "32748b104a4ba1b510bf16eb6ab75fdbe6a7cf6453d49672d41a3e2596247678"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_freebsd_386.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "0cd4d6c13884684683539591013f9e9849e1fadccbe9d6c0096451d1a2819998"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_freebsd_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "fea459ebcb3df3140068b6a2f294972b0081bf2228544e0442d36b6d0722e222"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_freebsd_arm.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "a2ccf9df9251537cfbe37d672edd305a38734584812e486c292e0f998ee4e6ef"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_linux_386.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "1f9a036337c5cd847b03ba5117e8a870c6cdb8bf2da8a5186613ed43ed98ceb2"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_linux_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "f040fb4d80889ccca5623a20aed8c8fed8ec4316e20b8361aaf9e9b8d6d657e0"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_linux_arm.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "43e232eb818cbf4d193ba01560671ae83073ab474d6bf65073c0d2a53d03ea7a"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_linux_arm64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "1acfd21e19843c4069345e0d48c7daf3665ac03ab10ac26a33d75fd4b570013d"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_openbsd_386.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "fb7d9399da59d8fda8cb289e62bd99d03d9458cd1567e585ec9ed85560b76f9a"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_openbsd_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "82f564521a35cd99f4e8b37b35de31d13a4981b97344d0e0bf5042f0e3645720"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_solaris_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "27278d3c58117a1b0fd67e2a55b550ed014a9a7f053618944317b18d982a6323"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_windows_386.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "eaf9ec5cc1c723744630ac7d55e7e606ff39999e8fd55aa2ac3b82ac9a8812b1"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.12.0-beta3/terraform_1.12.0-beta3_windows_amd64.zip",
+      "version": "1.12.0-beta3",
+      "sha256": "8268ec03a6935a8622deaf408a5db4e09b708e81afe0bb5b0a231a6de5e2c1b4"
+    }
+  },
   "1.2.0": {
     "x86_64-darwin": {
       "url": "https://releases.hashicorp.com/terraform/1.2.0/terraform_1.2.0_darwin_amd64.zip",
