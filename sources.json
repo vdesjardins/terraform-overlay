@@ -21359,6 +21359,88 @@
       "sha256": "ed0123d5c878f95b8ce15e963b1762bd248cb04da31c34636c48c7b1deedf41b"
     }
   },
+  "1.16.0-alpha20260603": {
+    "x86_64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_darwin_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "47d2a34a08faf1cf9f3667d45ada5089677505d43b13caeee85dcaba130489cd"
+    },
+    "aarch64-darwin": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_darwin_arm64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "eee7e5d8c816564c3fa9aa4a2bf80ab3df2972d742146984fbb0ce8b7c930159"
+    },
+    "386-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_freebsd_386.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "2c71961342c000ac56706276a131d4be2360e92efb1576606076fd7590e32979"
+    },
+    "x86_64-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_freebsd_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "f8cf76035458bee453fafa291bba7ed1a326ae9acf519adf1530a04d82c2fc13"
+    },
+    "arm-freebsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_freebsd_arm.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "62eafd71788e25076d7ecde717b970cb293c03f26240f19345cff00065d5688f"
+    },
+    "386-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_linux_386.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "0715d158cb840ea4c11368dbeeeb0734875c6fd0ca757834e2600b8ee8b961be"
+    },
+    "x86_64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_linux_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "7b9b31fc7b7f242528978bdffec938667e658bcaebf6d77907b93c6af2f7a9a3"
+    },
+    "arm-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_linux_arm.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "250da4636b4c0b6d9ded58cd5efdb7141b2ff18b7752b53d70b8e264ede70049"
+    },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_linux_arm64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "ae0022a5fe745faadee59d4d66a73593062c00bf040484bb1b9bb403bb255a45"
+    },
+    "s390x-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_linux_s390x.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "e8fb7dd637a94bb7f93f4fa4204b0f75e053340626011cdf0e9dd4ff00da4287"
+    },
+    "386-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_openbsd_386.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "d6bf48aadc98e68e9edf3b8b20d7d9412ec603f2052609dbf7d6a308a55ee209"
+    },
+    "x86_64-openbsd": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_openbsd_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "a7c7abaa98efd145af6c27cd1a93b91e8ab6c110ab6797522d0eee46cc5f6177"
+    },
+    "x86_64-solaris": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_solaris_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "3141a02caa1cb2d2a9ad14bddf4db15eb827f3617ae9c1ae43f1e1f89c746177"
+    },
+    "386-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_windows_386.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "385fd1f3ffe116d065c0592005ee8610a7bee4d4e5834968a2dacf5c2c1f75f4"
+    },
+    "x86_64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_windows_amd64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "3e431643c19dc4bc89566355b893847d3e4ce8ad533129ae7add13aea8b32eca"
+    },
+    "aarch64-windows": {
+      "url": "https://releases.hashicorp.com/terraform/1.16.0-alpha20260603/terraform_1.16.0-alpha20260603_windows_arm64.zip",
+      "version": "1.16.0-alpha20260603",
+      "sha256": "85d0a395aa7667becbdae12d5e93d57dc49810d7bbbadf7e8f086253be3ee7ef"
+    }
+  },
   "1.2.0": {
     "x86_64-darwin": {
       "url": "https://releases.hashicorp.com/terraform/1.2.0/terraform_1.2.0_darwin_amd64.zip",
