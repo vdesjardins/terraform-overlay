@@ -21477,15 +21477,20 @@
       "version": "1.15.8",
       "sha256": "d25ce7b6902013ad905db3d2eab0be4cd905887fe88b81a6171b8d5503c31f3d"
     },
+    "aarch64-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip",
+      "version": "1.15.8",
+      "sha256": "8891e9dcedc9e3b8950bc6af9d4d8af1f4cfade3062f53b9dc403a89f6ce8c9c"
+    },
     "arm-linux": {
       "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm.zip",
       "version": "1.15.8",
       "sha256": "9e6964abf11a84db1fa84d67adbfb9caf52ef5d03fdc1beb122c66129b9337d4"
     },
-    "aarch64-linux": {
-      "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_arm64.zip",
+    "s390x-linux": {
+      "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_linux_s390x.zip",
       "version": "1.15.8",
-      "sha256": "8891e9dcedc9e3b8950bc6af9d4d8af1f4cfade3062f53b9dc403a89f6ce8c9c"
+      "sha256": "34bfaa9908417fc05a1236b9866299c7101eb72e5957f6022f0fc3fa10ac10f1"
     },
     "386-openbsd": {
       "url": "https://releases.hashicorp.com/terraform/1.15.8/terraform_1.15.8_openbsd_386.zip",
